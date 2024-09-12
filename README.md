@@ -21,9 +21,13 @@ My journey in the tech world has been driven by a deep interest in data analytic
 - Microsoft Certified: Azure Data Engineer
 
 🌟 **Projects**:
+**Tesla-Safety-Assessment-Dashboard**
+
+- https://github.com/GabeAnalytics/Tesla-Safety-Assessment-Dashboard
 
 📫 **Let’s Connect**:
-- [LinkedIn](https://www.linkedin.com/in/gabriel-sibomana-656270311/)
+- [
+LinkedIn](https://www.linkedin.com/in/gabriel-sibomana-656270311/)
 
 
 Happy coding! 🚀
